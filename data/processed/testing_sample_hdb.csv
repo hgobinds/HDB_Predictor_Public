@@ -1,0 +1,4 @@
+town,flat_type,storey_range,floor_area_sqm,flat_model,lease_commence_date,max_floor_lvl,most_closest_mrt,walking_time_mrt
+CENTRAL AREA,4 ROOM,46 TO 48,97.0,Type S1,2011,50.0,OUTRAM PARK,238.0
+TAMPINES,4 ROOM,07 TO 09,104.0,Model A,1988,11.0,SIMEI,426.0
+BUKIT TIMAH,4 ROOM,07 TO 09,104.0,Model A,1988,14.0,BEAUTY WORLD,346.0
